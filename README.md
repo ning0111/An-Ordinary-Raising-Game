@@ -4,5 +4,5 @@
         <div class="info-line">开局可以自己改主角名字、性别等等，嫌麻烦也可以直接默认开玩。</div>
         <div class="info-line">你要作为一名失去父母的社畜，捡到一个孩子，然后把孩子养大；同时开局也能自主选择是否要对象，刷好感贴贴。</div>
         <div class="info-line important">⚠️比较简陋，bug、想法都欢迎丢匿名箱：xxx</div>
-        <div class="info-line important">✨网页即开即玩：xxx</div>
+        <div class="info-line important">✨网页即开即玩：https://ning0111.github.io/An-Ordinary-Raising-Game/</div>
     <div class="small-tip">该游戏还在测试版喵</div>
